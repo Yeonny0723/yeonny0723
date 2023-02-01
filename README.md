@@ -13,4 +13,4 @@
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kkjuyeon)](https://solved.ac/kkjuyeon) -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kkjuyeon)](https://solved.ac/kkjuyeon)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kkjuyeon)](https://solved.ac/kkjuyeon) -->
