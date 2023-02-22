@@ -11,6 +11,4 @@
 <!-- ![Yeonny's github stats](https://github-readme-stats.vercel.app/api?username=yeonny0723&show_icons=true)  -->
 
 
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kkjuyeon)](https://solved.ac/kkjuyeon) -->
-
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kkjuyeon)](https://solved.ac/kkjuyeon) -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kkjuyeon)](https://solved.ac/kkjuyeon)
